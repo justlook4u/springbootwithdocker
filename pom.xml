@@ -50,7 +50,7 @@
                 <version>1.2.0</version>
                 <configuration>
                     <imageName>${docker.image.prefix}/${project.artifactId}:${project.version}</imageName>
-                    <dockerHost>http://35.241.80.15:2375</dockerHost>
+                    <dockerHost>http://0.0.0.0:2375</dockerHost>
                     <dockerDirectory>src/main/docker</dockerDirectory>
                     <resources>
                         <resource>
