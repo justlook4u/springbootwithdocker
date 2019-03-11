@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>springbootwithdocker</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Spring Boot & Docker Testing </description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
